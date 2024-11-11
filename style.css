@@ -1,0 +1,52 @@
+body {
+    font-family: "Creepster", system-ui;
+    text-align: center;
+    background-color: #000000;
+    padding: 20px;
+  }
+  .image-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px;
+    height: 500px; 
+}
+h1{
+  color: #fb0000;
+  font-size: 500%;
+  font-style: normal;
+  
+}
+img {
+    max-height: 100%; 
+    max-width: 100%; 
+    border: 2px solid #ccc;
+    border-radius: 10px;
+}
+  button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+  }
+  button:hover {
+    background-color: #580707;
+  }
+
+.n{
+  background-color: #fa0000;
+  color: #ccc;
+}
+
+.p{
+  background-color: #ff0000;
+  color: #ccc;
+}
+
+.round{
+  border-radius: 10%;
+}ß
